@@ -1,3 +1,3 @@
 # iOS
-Code for Bom on iOS.
+Code for Bom on iOS platform.
 
