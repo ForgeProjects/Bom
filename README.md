@@ -1,2 +1,2 @@
 # Android 
-Code for Bom on Android OS.
+Code for Bom on Android OS platform.
