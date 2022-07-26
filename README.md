@@ -1,1 +1,2 @@
 # Bom
+This project was designed to allow people explore their creative self by giving them the opportunity to share their creations and pieces with other people. In doing so, we hope that people will seek to understand what creativity is about and use that knowledge to make their own work. Bom hopes to take the best from current social media platforms in use today and add in some features we hope users will like. Enjoy.
